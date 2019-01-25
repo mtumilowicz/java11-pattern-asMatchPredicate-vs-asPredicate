@@ -1,4 +1,6 @@
+[![Build Status](https://travis-ci.com/mtumilowicz/java11-vavr-validation.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-vavr-validation)
 # java11-pattern-asMatchPredicate-vs-asPredicate
+Pattern: `asMatchPredicate()` vs `asPredicate()` investigation.
 
 # project description
 Since java 11 we have two methods in `Pattern` class transforming
